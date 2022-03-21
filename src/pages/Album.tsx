@@ -56,7 +56,6 @@ export const Album = () => {
                                 <img src={item.thumbnailUrl} alt={item.title} />
                             </Link>
                         ))}
-
                     </>
                 }
             </div>
