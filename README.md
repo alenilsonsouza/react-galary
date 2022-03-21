@@ -4,6 +4,12 @@ Atividade feita no curso B7Web. Praticado por [Alenilson Souza](https://alenilso
 
 Demo: <https://reactgalary.alenilsonsouza.com.br>
 
+## Instação 
+* `npm install`
+
+## Para rodar
+* `npm start`
+
 ## Recursos
 * States
 * UseEffect
